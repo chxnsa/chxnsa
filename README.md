@@ -14,7 +14,7 @@
 
 ```javascript
 const chxnsa = {
-    name: "Andi Khnisa",
+    name: "Andi Khnaerunnisa Oddang",
     role: "Software Engineer & AI Enthusiast",
     location: "Indonesia 🇮🇩",
     currentFocus: "Building intelligent systems",
