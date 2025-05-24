@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/chxnsa/chxnsa/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Code%20Never%20Sleeps&fontSize=40&fontColor=ff0000&animation=fadeIn"/>
 </div>
 
 ---
@@ -154,15 +154,20 @@ Other        8 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🔥 **Top Repositories**
+## 🔥 **Featured Projects**
 
 <div align="center">
-  <a href="https://github.com/chxnsa/library-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chxnsa&repo=library-management-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
-  </a>
-  <a href="https://github.com/chxnsa/ml-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chxnsa&repo=ml-projects&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=ffffff"/>
-  </a>
+
+| 🚀 **Project** | 💻 **Tech Stack** | 📈 **Status** | 🔗 **Links** |
+|:---------------|:------------------|:--------------|:-------------|
+| Library Management System | Java, OOP, MySQL | 🟡 In Progress | [Repository](https://github.com/chxnsa) |
+| Machine Learning Hub | Python, TensorFlow, Scikit-learn | 🟢 Active | [Repository](https://github.com/chxnsa) |
+| Algorithm Solutions | Java, Python, C++ | 🟢 Growing | [Repository](https://github.com/chxnsa) |
+| Data Science Projects | Python, Pandas, NumPy | 🟡 Learning | [Repository](https://github.com/chxnsa) |
+
+### 🎯 **Most Used Languages**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chxnsa&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=ffffff&langs_count=8"/>
+
 </div>
 
 ---
